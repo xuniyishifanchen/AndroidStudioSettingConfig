@@ -1,0 +1,6 @@
+<application>
+  <component name="BlocTaoData">
+    <option name="usePrefix" value="true" />
+    <option name="bloc8" value="true" />
+  </component>
+</application>
